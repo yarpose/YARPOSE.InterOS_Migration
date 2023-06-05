@@ -20,11 +20,22 @@ Link to file:
 ### Credits:
 All the credits are related to corresponding tools and vendors.
 
-# Related Projects
-Please follow us to have informed about related projects
 
-[YARPOSE Project](https://github.com/yarpose) - A Dejavu project in EDA by
-[M. B. Ghaznavi-Ghoushchi](https://github.com/ghoushchi)
+# Related Projects
+Please follow us to be informed about related projects:
+
+
+<p>
+<a href="https://github.com/yarpose" rel="nofollow noreferrer">
+    <img src="media/GH.png" alt="github"> YARPOSE - A Dejavu project in EDA
+  </a><br>
+  <a href="https://www.linkedin.com/in/ghaznavi-ghoushchi" rel="nofollow noreferrer">
+    <img src="media/LI.png" alt="linkedin"> M. B. Ghaznavi-Ghoushchi
+  </a> &nbsp; 
+  <a href="https://github.com/ghoushchi" rel="nofollow noreferrer">
+    <img src="media/GH.png" alt="github"> ghoushchi
+  </a>
+</p>
 
 
 
