@@ -12,7 +12,7 @@ Thanks to TMU EECS department for supporting me during that fantastic days!
 
 Link to file:
 ![Inter-OS Migration Of CAD Tools For IC Design](inter-os-2.pptx)
-
+![Inter-OS Migration Of CAD Tools For IC Design](inter-os-2.png)
 
 #Magic #tcl #tk #perl #Java #design_flow #ICdesign #CAD #EDA #opensource #open_source #FOSS
 #IEEE #TMU 
